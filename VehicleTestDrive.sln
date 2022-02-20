@@ -3,11 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.31903.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleApi", "VehicleApi\VehicleApi.csproj", "{CAF2CD5C-BB1C-4172-8CEC-7F682695DF92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehicleApi", "VehicleApi\VehicleApi.csproj", "{CAF2CD5C-BB1C-4172-8CEC-7F682695DF92}"
+	ProjectSection(ProjectDependencies) = postProject
+		{69C363E5-7A67-4457-8C27-71B49F28561B} = {69C363E5-7A67-4457-8C27-71B49F28561B}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerApi", "CustomerApi\CustomerApi.csproj", "{5C1E154F-3DFA-4447-A086-1F9F63EBCD3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerApi", "CustomerApi\CustomerApi.csproj", "{5C1E154F-3DFA-4447-A086-1F9F63EBCD3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReservationsApi", "ReservationsApi\ReservationsApi.csproj", "{69C363E5-7A67-4457-8C27-71B49F28561B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReservationsApi", "ReservationsApi\ReservationsApi.csproj", "{69C363E5-7A67-4457-8C27-71B49F28561B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
