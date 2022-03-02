@@ -1,4 +1,4 @@
-﻿using CustomerApi.Model;
+﻿using CustomerApi.Models;
 
 using Microsoft.EntityFrameworkCore;
 

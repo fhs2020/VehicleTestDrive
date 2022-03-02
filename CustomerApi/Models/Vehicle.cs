@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace CustomerApi.Model
+namespace CustomerApi.Models
 {
     public class Vehicle
     {

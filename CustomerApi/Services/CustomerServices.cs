@@ -2,7 +2,7 @@
 
 using CustomerApi.Data;
 using CustomerApi.Interfaces;
-using CustomerApi.Model;
+using CustomerApi.Models;
 
 using Microsoft.EntityFrameworkCore;
 

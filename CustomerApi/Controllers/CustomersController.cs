@@ -1,5 +1,5 @@
 ﻿using CustomerApi.Interfaces;
-using CustomerApi.Model;
+using CustomerApi.Models;
 
 using Microsoft.AspNetCore.Mvc;
 

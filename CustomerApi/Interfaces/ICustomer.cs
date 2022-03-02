@@ -1,4 +1,4 @@
-﻿using CustomerApi.Model;
+﻿using CustomerApi.Models;
 
 namespace CustomerApi.Interfaces
 {
